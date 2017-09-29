@@ -1,0 +1,142 @@
+[0912/145645.896:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72190000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.902:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files\Google\Chrome\Application\60.0.3112.113\chrome_elf.dll
+[0912/145645.902:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75490000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.902:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\RPCRT4.dll
+[0912/145645.902:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75720000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.902:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\sechost.dll
+[0912/145645.902:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75750000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.902:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\ADVAPI32.dll
+[0912/145645.902:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75740000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.903:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\PSAPI.DLL
+[0912/145645.903:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75800000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.903:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\USER32.dll
+[0912/145645.903:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75ce0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.903:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\USP10.dll
+[0912/145645.903:ERROR:process_reader_win.cc(242)] ReadMemory at 0x758d0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.903:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\LPK.dll
+[0912/145645.903:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75580000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.903:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\GDI32.dll
+[0912/145645.903:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75be0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.903:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\SHLWAPI.dll
+[0912/145645.903:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76230000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.903:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\SHELL32.dll
+[0912/145645.903:ERROR:process_reader_win.cc(242)] ReadMemory at 0x70d50000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.903:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\WINMM.dll
+[0912/145645.904:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74d90000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.904:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\profapi.dll
+[0912/145645.904:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74f30000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.904:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\USERENV.dll
+[0912/145645.904:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72e40000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.904:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\webio.dll
+[0912/145645.904:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72e90000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.904:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\WINHTTP.dll
+[0912/145645.904:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6ff50000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.904:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\api-ms-win-core-synch-l1-2-0.DLL
+[0912/145645.904:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75fc0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.904:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\MSCTF.dll
+[0912/145645.904:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76fd0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.904:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\IMM32.DLL
+[0912/145645.905:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75160000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.905:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\ole32.dll
+[0912/145645.905:ERROR:process_reader_win.cc(242)] ReadMemory at 0x750c0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.905:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\OLEAUT32.dll
+[0912/145645.905:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75c40000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.905:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\NSI.dll
+[0912/145645.905:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75540000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.905:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\WS2_32.dll
+[0912/145645.905:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73b50000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.905:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\COMCTL32.dll
+[0912/145645.905:ERROR:process_reader_win.cc(242)] ReadMemory at 0x752c0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.905:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\COMDLG32.dll
+[0912/145645.905:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6f9e0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.905:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\dbghelp.dll
+[0912/145645.905:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6f950000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.906:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\WINSPOOL.DRV
+[0912/145645.906:ERROR:process_reader_win.cc(242)] ReadMemory at 0x70070000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.906:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\DWrite.dll
+[0912/145645.906:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74da0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.906:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\MSASN1.dll
+[0912/145645.906:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74df0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.906:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\CRYPT32.dll
+[0912/145645.906:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72be0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.906:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\WINNSI.DLL
+[0912/145645.906:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72a80000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.906:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\IPHLPAPI.DLL
+[0912/145645.906:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74c20000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.906:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\Secur32.dll
+[0912/145645.906:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74c40000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.907:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\SSPICLI.DLL
+[0912/145645.907:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74f50000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.907:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\api-ms-win-downlevel-ole32-l1-1-0.dll
+[0912/145645.907:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74f60000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.907:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\api-ms-win-downlevel-shlwapi-l1-1-0.dll
+[0912/145645.907:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74ff0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.907:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\api-ms-win-downlevel-advapi32-l1-1-0.dll
+[0912/145645.907:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74de0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.907:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\api-ms-win-downlevel-user32-l1-1-0.dll
+[0912/145645.907:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74fe0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.907:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\api-ms-win-downlevel-version-l1-1-0.dll
+[0912/145645.907:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74f20000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.907:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\api-ms-win-downlevel-normaliz-l1-1-0.dll
+[0912/145645.907:ERROR:process_reader_win.cc(242)] ReadMemory at 0x753f0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.907:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\normaliz.DLL
+[0912/145645.908:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75d80000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.908:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\iertutil.dll
+[0912/145645.908:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75930000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.908:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\WININET.dll
+[0912/145645.908:ERROR:process_reader_win.cc(242)] ReadMemory at 0x755d0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.908:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\urlmon.dll
+[0912/145645.908:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74db0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.908:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\WINTRUST.dll
+[0912/145645.908:ERROR:process_reader_win.cc(242)] ReadMemory at 0x5a820000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.908:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files\Google\Chrome\Application\60.0.3112.113\chrome_child.dll
+[0912/145645.908:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74cb0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.908:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\cryptbase.dll
+[0912/145645.908:ERROR:process_reader_win.cc(242)] ReadMemory at 0x730b0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.908:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\ATL.DLL
+[0912/145645.908:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73320000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.909:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\AVRT.dll
+[0912/145645.909:ERROR:process_reader_win.cc(242)] ReadMemory at 0x71ee0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.909:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\MFPlat.DLL
+[0912/145645.909:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73500000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.909:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\ksuser.dll
+[0912/145645.909:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6a980000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.909:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\mf.dll
+[0912/145645.910:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75090000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.910:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\CFGMGR32.dll
+[0912/145645.910:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74fc0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.910:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\DEVOBJ.dll
+[0912/145645.910:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76090000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.910:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\SETUPAPI.dll
+[0912/145645.910:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73330000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.910:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\POWRPROF.dll
+[0912/145645.910:ERROR:process_reader_win.cc(242)] ReadMemory at 0x71bf0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.910:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\EVR.dll
+[0912/145645.910:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73050000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.910:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\slc.dll
+[0912/145645.910:ERROR:process_reader_win.cc(242)] ReadMemory at 0x748d0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.911:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\bcrypt.dll
+[0912/145645.911:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6a740000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.911:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\msmpeg2vdec.dll
+[0912/145645.911:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72bf0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.911:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\dxva2.dll
+[0912/145645.911:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6a230000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.911:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\D3DCompiler_47.dll
+[0912/145645.911:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73510000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.911:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\d3d8thk.dll
+[0912/145645.911:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73690000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.911:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\dwmapi.dll
+[0912/145645.911:ERROR:process_reader_win.cc(242)] ReadMemory at 0x692d0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.911:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\d3d9.dll
+[0912/145645.911:ERROR:process_reader_win.cc(242)] ReadMemory at 0x69f60000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.911:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files\Google\Chrome\Application\60.0.3112.113\libglesv2.dll
+[0912/145645.912:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72220000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.912:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files\Google\Chrome\Application\60.0.3112.113\libegl.dll
+[0912/145645.912:ERROR:process_reader_win.cc(242)] ReadMemory at 0x739d0000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.912:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\uxtheme.dll
+[0912/145645.912:ERROR:process_reader_win.cc(242)] ReadMemory at 0x68f20000 of 64 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.912:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\igdumd32.dll
+[0912/145645.925:ERROR:process_reader_win.cc(242)] ReadMemory at 0x1d6000 of 40960 bytes failed: ����� ReadProcessMemory ��� WriteProcessMemory �������� ���� ��������. (0x12B)
+[0912/145645.925:ERROR:crash_report_exception_handler.cc(116)] WriteEverything failed
+[0912/145646.517:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: An attempt was made to access an exiting process.  (0xc000010a)
+[0913/161132.304:ERROR:file_io.cc(134)] WriteFile: ����� �������� ������. (0xE8)

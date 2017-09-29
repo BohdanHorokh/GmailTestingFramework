@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test - Siute" data-provider-thread-count="2">
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    </listeners>
+    <test name="successful">
+        <classes>
+            <class name="com.epam.lab.GmailTest"/>
+        </classes>
+    </test>
+    <test name="failed">
+        <classes>
+            <class name="com.epam.lab.FailLoginTest"/>
+        </classes>
+    </test>
+</suite>
