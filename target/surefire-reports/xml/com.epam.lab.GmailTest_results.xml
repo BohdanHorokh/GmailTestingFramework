@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="successful"
+           tests="1"
+           failures="1"
+           errors="0"
+           skipped="0"
+           time="0.000">
+  <properties />
+            <testcase name="testGmailFunctionality" time="0.000" classname="com.epam.lab.GmailTest">
+                <failure type="java.lang.RuntimeException"
+                  message="javax.xml.bind.UnmarshalException
+ - with linked exception:
+[java.io.FileNotFoundException: D:\Bohdan Horokh\Main\GmailTestingFramework\target\src\main\resources\users.xml (The system cannot find the path specified)]"
+              >
+<![CDATA[java.lang.RuntimeException: javax.xml.bind.UnmarshalException
+ - with linked exception:
+[java.io.FileNotFoundException: D:\Bohdan Horokh\Main\GmailTestingFramework\target\src\main\resources\users.xml (The system cannot find the path specified)]
+  org.testng.internal.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:161)
+  org.testng.internal.Parameters.handleParameters(Parameters.java:429)
+  org.testng.internal.Invoker.handleParameters(Invoker.java:1383)
+  org.testng.internal.Invoker.createParameters(Invoker.java:1075)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1180)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+  org.testng.TestRunner.privateRun(TestRunner.java:767)
+  org.testng.TestRunner.run(TestRunner.java:617)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+  org.testng.SuiteRunner.run(SuiteRunner.java:254)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)
+  org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+  org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)
+  org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)
+  org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)
+  org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)
+Caused by: javax.xml.bind.UnmarshalException
+ - with linked exception:
+[java.io.FileNotFoundException: D:\Bohdan Horokh\Main\GmailTestingFramework\target\src\main\resources\users.xml (The system cannot find the path specified)]
+  com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallerImpl.unmarshal0(UnmarshallerImpl.java:246)
+  com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallerImpl.unmarshal(UnmarshallerImpl.java:214)
+  javax.xml.bind.helpers.AbstractUnmarshallerImpl.unmarshal(AbstractUnmarshallerImpl.java:157)
+  javax.xml.bind.helpers.AbstractUnmarshallerImpl.unmarshal(AbstractUnmarshallerImpl.java:162)
+  javax.xml.bind.helpers.AbstractUnmarshallerImpl.unmarshal(AbstractUnmarshallerImpl.java:171)
+  javax.xml.bind.helpers.AbstractUnmarshallerImpl.unmarshal(AbstractUnmarshallerImpl.java:189)
+  com.epam.lab.util.DataUtils.readUsersData(DataUtils.java:34)
+  com.epam.lab.GmailTest.getAccounts(GmailTest.java:36)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:498)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+  org.testng.internal.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:135)
+  org.testng.internal.Parameters.handleParameters(Parameters.java:429)
+  org.testng.internal.Invoker.handleParameters(Invoker.java:1383)
+  org.testng.internal.Invoker.createParameters(Invoker.java:1075)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1180)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+  org.testng.TestRunner.privateRun(TestRunner.java:767)
+  org.testng.TestRunner.run(TestRunner.java:617)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+  org.testng.SuiteRunner.run(SuiteRunner.java:254)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)
+  org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+  org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)
+  org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)
+  org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)
+  org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)
+Caused by: java.io.FileNotFoundException: D:\Bohdan Horokh\Main\GmailTestingFramework\target\src\main\resources\users.xml (The system cannot find the path specified)
+  java.io.FileInputStream.open0(Native Method)
+  java.io.FileInputStream.open(FileInputStream.java:195)
+  java.io.FileInputStream.<init>(FileInputStream.java:138)
+  java.io.FileInputStream.<init>(FileInputStream.java:93)
+  sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:90)
+  sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:188)
+  org.apache.xerces.impl.XMLEntityManager.setupCurrentEntity(Unknown Source)
+  org.apache.xerces.impl.XMLVersionDetector.determineDocVersion(Unknown Source)
+  org.apache.xerces.parsers.XML11Configuration.parse(Unknown Source)
+  org.apache.xerces.parsers.XML11Configuration.parse(Unknown Source)
+  org.apache.xerces.parsers.XMLParser.parse(Unknown Source)
+  org.apache.xerces.parsers.AbstractSAXParser.parse(Unknown Source)
+  org.apache.xerces.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
+  com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallerImpl.unmarshal0(UnmarshallerImpl.java:243)
+  com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallerImpl.unmarshal(UnmarshallerImpl.java:214)
+  javax.xml.bind.helpers.AbstractUnmarshallerImpl.unmarshal(AbstractUnmarshallerImpl.java:157)
+  javax.xml.bind.helpers.AbstractUnmarshallerImpl.unmarshal(AbstractUnmarshallerImpl.java:162)
+  javax.xml.bind.helpers.AbstractUnmarshallerImpl.unmarshal(AbstractUnmarshallerImpl.java:171)
+  javax.xml.bind.helpers.AbstractUnmarshallerImpl.unmarshal(AbstractUnmarshallerImpl.java:189)
+  com.epam.lab.util.DataUtils.readUsersData(DataUtils.java:34)
+  com.epam.lab.GmailTest.getAccounts(GmailTest.java:36)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:498)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+  org.testng.internal.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:135)
+  org.testng.internal.Parameters.handleParameters(Parameters.java:429)
+  org.testng.internal.Invoker.handleParameters(Invoker.java:1383)
+  org.testng.internal.Invoker.createParameters(Invoker.java:1075)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1180)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+  org.testng.TestRunner.privateRun(TestRunner.java:767)
+  org.testng.TestRunner.run(TestRunner.java:617)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+  org.testng.SuiteRunner.run(SuiteRunner.java:254)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)
+  org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+  org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)
+  org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)
+  org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)
+  org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)
+]]>
+      </failure>
+
+          </testcase>
+  
+  
+  
+</testsuite>

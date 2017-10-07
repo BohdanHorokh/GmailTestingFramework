@@ -1,0 +1,4 @@
+com\epam\lab\stepsdefenition\LoginStep.class
+com\epam\lab\CucumberRunner.class
+com\epam\lab\FailLoginTest.class
+com\epam\lab\GmailTest.class

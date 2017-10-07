@@ -2,6 +2,7 @@ package com.epam.lab.util;
 
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.util.Properties;
 
 public class EnvironmentProperties {
@@ -10,8 +11,9 @@ public class EnvironmentProperties {
     public EnvironmentProperties() {
         properties = new Properties();
         try {
-            properties.load(new FileInputStream("src/main/resources/environment.properties"));
-//            properties.load(EnvironmentProperties.class.getResourceAsStream("/src/main/resources/environment.properties"));
+//            properties.load(new FileInputStream("src/main/resources/environment.properties"));
+            InputStream is = getClass().getResourceAsStream("/environment.properties");
+            properties.load(is);
         } catch (IOException e) {
             e.printStackTrace();
         }
