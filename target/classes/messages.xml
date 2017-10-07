@@ -1,0 +1,12 @@
+<messages>
+    <message>
+        <to>horokh.bohdan@gmail.com</to>
+        <subject>Subject Name</subject>
+        <text>Some text</text>
+    </message>
+    <message name="incorrect">
+        <to>horokhqwerty.bohdan</to>
+        <subject>Subject Name</subject>
+        <text>Some text</text>
+    </message>
+</messages>
