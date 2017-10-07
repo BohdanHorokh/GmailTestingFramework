@@ -10,7 +10,8 @@ public class EnvironmentProperties {
     public EnvironmentProperties() {
         properties = new Properties();
         try {
-            properties.load(new FileInputStream("src/main/resources/environment.properties"));
+//            properties.load(new FileInputStream("src/main/resources/environment.properties"));
+            properties.load(new FileInputStream("environment.properties"));
         } catch (IOException e) {
             e.printStackTrace();
         }
