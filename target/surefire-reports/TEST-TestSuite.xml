@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="0.513" tests="2" errors="0" skipped="2" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="143.222" tests="10" errors="0" skipped="0" failures="6">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
-    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_131\jre\bin"/>
-    <property name="java.vm.version" value="25.131-b11"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_144\jre\bin"/>
+    <property name="java.vm.version" value="25.144-b01"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="D:\Bohdan Horokh\Main\GmailTestingFramework"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\EpamQA\Projects\GmailTestingFramework"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,60 +16,126 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="D:\Bohdan Horokh\Main\GmailTestingFramework"/>
-    <property name="java.runtime.version" value="1.8.0_131-b11"/>
+    <property name="user.dir" value="D:\EpamQA\Projects\GmailTestingFramework"/>
+    <property name="java.runtime.version" value="1.8.0_144-b01"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_131\jre\lib\endorsed"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_144\jre\lib\endorsed"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.io.tmpdir" value="C:\Users\BOGDAN~1\AppData\Local\Temp\"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="D:\Bohdan Horokh\drivers\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin\..\bin\m2.conf"/>
-    <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_131\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Git\cmd;C:\Users\Bogdan_Gorokh\AppData\Local\Microsoft\WindowsApps;D:\Bohdan Horokh\drivers\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;C:\Program Files\Java\jdk1.8.0_131\bin;."/>
-    <property name="maven.conf" value="D:\Bohdan Horokh\drivers\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin\../conf"/>
+    <property name="classworlds.conf" value="D:\EpamQA\Tools\maven\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_144\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\dotnet\;%JAVA_HOME%\bin;D:\EpamQA\Tools\maven\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;C:\Users\Bogdan_Gorokh\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="maven.conf" value="D:\EpamQA\Tools\maven\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin\../conf"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="os.version" value="10.0"/>
-    <property name="library.jansi.path" value="D:\Bohdan Horokh\drivers\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin\..\lib\jansi-native\windows64"/>
+    <property name="library.jansi.path" value="D:\EpamQA\Tools\maven\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin\..\lib\jansi-native\windows64"/>
     <property name="user.home" value="C:\Users\Bogdan_Gorokh"/>
     <property name="user.timezone" value="Europe/Helsinki"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="java.specification.version" value="1.8"/>
-    <property name="file.encoding" value="Cp1252"/>
+    <property name="file.encoding" value="Cp1251"/>
     <property name="user.name" value="Bogdan_Gorokh"/>
-    <property name="java.class.path" value="D:\Bohdan Horokh\drivers\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.class.path" value="D:\EpamQA\Tools\maven\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_131\jre"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_144\jre"/>
     <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean test"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
     <property name="java.vm.info" value="mixed mode"/>
-    <property name="java.version" value="1.8.0_131"/>
-    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
-    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_131\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_131\jre\classes"/>
-    <property name="sun.stderr.encoding" value="cp437"/>
+    <property name="java.version" value="1.8.0_144"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\classes"/>
+    <property name="sun.stderr.encoding" value="cp866"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="D:\Bohdan Horokh\drivers\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin\.."/>
+    <property name="maven.home" value="D:\EpamQA\Tools\maven\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin\.."/>
     <property name="file.separator" value="\"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
-    <property name="sun.stdout.encoding" value="cp437"/>
+    <property name="sun.stdout.encoding" value="cp866"/>
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="testGmailFunctionality" classname="com.epam.lab.GmailTest" time="0">
-    <skipped message="javax.xml.bind.UnmarshalException&#10; - with linked exception:&#10;[java.io.FileNotFoundException: D:\Bohdan Horokh\Main\GmailTestingFramework\target\src\main\resources\users.xml (The system cannot find the path specified)]"/>
-    <system-out><![CDATA[2017-10-07 19:26:18 INFO  TestNGListener:28 - The name of the testcase Skipped is :testGmailFunctionality
+  <testcase name="testGmailFunctionality" classname="com.epam.lab.GmailTest" time="32.827"/>
+  <testcase name="testGmailFunctionality" classname="com.epam.lab.GmailTest" time="33.054"/>
+  <testcase name="testGmailFunctionality" classname="com.epam.lab.GmailTest" time="31.754"/>
+  <testcase name="testGmailFunctionality" classname="com.epam.lab.GmailTest" time="32.442"/>
+  <testcase name="testGmailFunctionality" classname="com.epam.lab.GmailTest" time="23.136">
+    <failure message="element not visible&#10;  (Session info: chrome=61.0.3163.100)&#10;  (Driver info: chromedriver=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;Build info: version: &apos;3.5.3&apos;, revision: &apos;a88d25fe6b&apos;, time: &apos;2017-08-29T12:42:44.417Z&apos;&#10;System info: host: &apos;EPUALVIW0962&apos;, ip: &apos;192.168.56.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_144&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a), userDataDir=C:\Users\BOGDAN~1\AppData\Local\Temp\scoped_dir11948_26165}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=61.0.3163.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]&#10;Session ID: 4de78a11c610a65ae582300802c31cef" type="org.openqa.selenium.ElementNotVisibleException">org.openqa.selenium.ElementNotVisibleException: 
+element not visible
+  (Session info: chrome=61.0.3163.100)
+  (Driver info: chromedriver=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'EPUALVIW0962', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a), userDataDir=C:\Users\BOGDAN~1\AppData\Local\Temp\scoped_dir11948_26165}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=61.0.3163.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4de78a11c610a65ae582300802c31cef
+	at com.epam.lab.GmailTest.testGmailFunctionality(GmailTest.java:25)
+</failure>
+    <system-out><![CDATA[2017-10-12 18:48:34 INFO  TestNGListener:13 - testGmailFunctionality test case started
+2017-10-12 18:48:57 INFO  TestNGListener:23 - The name of the testcase failed is :testGmailFunctionality
 ]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a) on port 8115
+Only local connections are allowed.
+Oct 12, 2017 6:48:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
   </testcase>
-  <testcase name="testGmailFunctionality" classname="com.epam.lab.FailLoginTest" time="0">
-    <skipped message="java.io.FileNotFoundException: src\main\resources\credentials.csv (The system cannot find the path specified)"/>
+  <testcase name="testGmailFunctionality" classname="com.epam.lab.FailLoginTest" time="16.124">
+    <failure message="expected [horokh.bohdan@gmail.com] but found [qa.lviv.test]" type="java.lang.AssertionError">java.lang.AssertionError: expected [horokh.bohdan@gmail.com] but found [qa.lviv.test]
+	at com.epam.lab.FailLoginTest.testGmailFunctionality(FailLoginTest.java:26)
+</failure>
+    <system-err><![CDATA[Starting ChromeDriver 2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a) on port 29246
+Only local connections are allowed.
+Starting ChromeDriver 2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a) on port 2171
+Only local connections are allowed.
+Oct 12, 2017 6:49:00 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Oct 12, 2017 6:49:00 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+  <testcase name="testGmailFunctionality" classname="com.epam.lab.FailLoginTest" time="16.735">
+    <failure message="expected [qa.lviv.test@gmail.com] but found [qa.lviv.test]" type="java.lang.AssertionError">java.lang.AssertionError: expected [qa.lviv.test@gmail.com] but found [qa.lviv.test]
+	at com.epam.lab.FailLoginTest.testGmailFunctionality(FailLoginTest.java:26)
+</failure>
+  </testcase>
+  <testcase name="testGmailFunctionality" classname="com.epam.lab.FailLoginTest" time="15.884">
+    <failure message="expected [horokh.bohdan@gmail.com] but found [qa.lviv.test]" type="java.lang.AssertionError">java.lang.AssertionError: expected [horokh.bohdan@gmail.com] but found [qa.lviv.test]
+	at com.epam.lab.FailLoginTest.testGmailFunctionality(FailLoginTest.java:26)
+</failure>
+    <system-err><![CDATA[Starting ChromeDriver 2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a) on port 34327
+Only local connections are allowed.
+Starting ChromeDriver 2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a) on port 46577
+Only local connections are allowed.
+Oct 12, 2017 6:49:17 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Oct 12, 2017 6:49:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+  <testcase name="testGmailFunctionality" classname="com.epam.lab.FailLoginTest" time="0.089">
+    <failure message="expected [qa.lviv.test@gmail.com] but found [qa.lviv.test]" type="java.lang.AssertionError">java.lang.AssertionError: expected [qa.lviv.test@gmail.com] but found [qa.lviv.test]
+	at com.epam.lab.FailLoginTest.testGmailFunctionality(FailLoginTest.java:26)
+</failure>
+  </testcase>
+  <testcase name="testGmailFunctionality" classname="com.epam.lab.FailLoginTest" time="15.724">
+    <failure message="expected [horokh.bohdan@gmail.com] but found [qa.lviv.test]" type="java.lang.AssertionError">java.lang.AssertionError: expected [horokh.bohdan@gmail.com] but found [qa.lviv.test]
+	at com.epam.lab.FailLoginTest.testGmailFunctionality(FailLoginTest.java:26)
+</failure>
+    <system-err><![CDATA[Starting ChromeDriver 2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a) on port 42390
+Only local connections are allowed.
+Oct 12, 2017 6:49:35 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
   </testcase>
 </testsuite>

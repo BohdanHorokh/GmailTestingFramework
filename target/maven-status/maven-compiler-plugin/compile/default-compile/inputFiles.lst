@@ -1,21 +1,21 @@
-D:\Bohdan Horokh\Main\GmailTestingFramework\src\main\java\com\epam\lab\control\TextInput.java
-D:\Bohdan Horokh\Main\GmailTestingFramework\src\main\java\com\epam\lab\model\Messages.java
-D:\Bohdan Horokh\Main\GmailTestingFramework\src\main\java\com\epam\lab\control\TextHolder.java
-D:\Bohdan Horokh\Main\GmailTestingFramework\src\main\java\com\epam\lab\util\DataUtils.java
-D:\Bohdan Horokh\Main\GmailTestingFramework\src\main\java\com\epam\lab\businessobject\GmailSendMessageBO.java
-D:\Bohdan Horokh\Main\GmailTestingFramework\src\main\java\com\epam\lab\pages\GmailHomePage.java
-D:\Bohdan Horokh\Main\GmailTestingFramework\src\main\java\com\epam\lab\pages\MessagePage.java
-D:\Bohdan Horokh\Main\GmailTestingFramework\src\main\java\com\epam\lab\model\Users.java
-D:\Bohdan Horokh\Main\GmailTestingFramework\src\main\java\com\epam\lab\control\Element.java
-D:\Bohdan Horokh\Main\GmailTestingFramework\src\main\java\com\epam\lab\control\MessageBox.java
-D:\Bohdan Horokh\Main\GmailTestingFramework\src\main\java\com\epam\lab\listener\TestNGListener.java
-D:\Bohdan Horokh\Main\GmailTestingFramework\src\main\java\com\epam\lab\control\Button.java
-D:\Bohdan Horokh\Main\GmailTestingFramework\src\main\java\com\epam\lab\util\WebDriverSingleton.java
-D:\Bohdan Horokh\Main\GmailTestingFramework\src\main\java\com\epam\lab\model\Message.java
-D:\Bohdan Horokh\Main\GmailTestingFramework\src\main\java\com\epam\lab\util\CustomFieldDecorator.java
-D:\Bohdan Horokh\Main\GmailTestingFramework\src\main\java\com\epam\lab\businessobject\GmailLoginBO.java
-D:\Bohdan Horokh\Main\GmailTestingFramework\src\main\java\com\epam\lab\util\ReportAppender.java
-D:\Bohdan Horokh\Main\GmailTestingFramework\src\main\java\com\epam\lab\util\EnvironmentProperties.java
-D:\Bohdan Horokh\Main\GmailTestingFramework\src\main\java\com\epam\lab\model\User.java
-D:\Bohdan Horokh\Main\GmailTestingFramework\src\main\java\com\epam\lab\pages\GmailLoginPage.java
-D:\Bohdan Horokh\Main\GmailTestingFramework\src\main\java\com\epam\lab\pages\PageObject.java
+D:\EpamQA\Projects\GmailTestingFramework\src\main\java\com\epam\lab\businessobject\GmailSendMessageBO.java
+D:\EpamQA\Projects\GmailTestingFramework\src\main\java\com\epam\lab\listener\TestNGListener.java
+D:\EpamQA\Projects\GmailTestingFramework\src\main\java\com\epam\lab\pages\GmailHomePage.java
+D:\EpamQA\Projects\GmailTestingFramework\src\main\java\com\epam\lab\pages\GmailLoginPage.java
+D:\EpamQA\Projects\GmailTestingFramework\src\main\java\com\epam\lab\util\EnvironmentProperties.java
+D:\EpamQA\Projects\GmailTestingFramework\src\main\java\com\epam\lab\util\WebDriverSingleton.java
+D:\EpamQA\Projects\GmailTestingFramework\src\main\java\com\epam\lab\model\Messages.java
+D:\EpamQA\Projects\GmailTestingFramework\src\main\java\com\epam\lab\util\CustomFieldDecorator.java
+D:\EpamQA\Projects\GmailTestingFramework\src\main\java\com\epam\lab\model\Message.java
+D:\EpamQA\Projects\GmailTestingFramework\src\main\java\com\epam\lab\control\Element.java
+D:\EpamQA\Projects\GmailTestingFramework\src\main\java\com\epam\lab\model\User.java
+D:\EpamQA\Projects\GmailTestingFramework\src\main\java\com\epam\lab\util\ReportAppender.java
+D:\EpamQA\Projects\GmailTestingFramework\src\main\java\com\epam\lab\control\Button.java
+D:\EpamQA\Projects\GmailTestingFramework\src\main\java\com\epam\lab\businessobject\GmailLoginBO.java
+D:\EpamQA\Projects\GmailTestingFramework\src\main\java\com\epam\lab\control\TextInput.java
+D:\EpamQA\Projects\GmailTestingFramework\src\main\java\com\epam\lab\control\MessageBox.java
+D:\EpamQA\Projects\GmailTestingFramework\src\main\java\com\epam\lab\control\TextHolder.java
+D:\EpamQA\Projects\GmailTestingFramework\src\main\java\com\epam\lab\pages\MessagePage.java
+D:\EpamQA\Projects\GmailTestingFramework\src\main\java\com\epam\lab\pages\PageObject.java
+D:\EpamQA\Projects\GmailTestingFramework\src\main\java\com\epam\lab\util\DataUtils.java
+D:\EpamQA\Projects\GmailTestingFramework\src\main\java\com\epam\lab\model\Users.java
