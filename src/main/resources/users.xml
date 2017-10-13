@@ -3,10 +3,10 @@
         <email>horokh.bohdan@gmail.com</email>
         <password>jamal003200</password>
     </user>
-    <!--<user>-->
-        <!--<email>qa.lviv.test@gmail.com</email>-->
-        <!--<password>QualityAssurance</password>-->
-    <!--</user>-->
+    <user>
+        <email>qa.lviv.test@gmail.com</email>
+        <password>QualityAssurance</password>
+    </user>
     <!--<user>-->
         <!--<email>horokh.bohdan@gmail.com</email>-->
         <!--<password>jamal003200</password>-->

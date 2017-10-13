@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="successful"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="81.443">
+  <properties />
+  
+  
+            <testcase name="testGmailFunctionality" time="46.140" classname="com.epam.lab.GmailTest" />
+                <testcase name="testGmailFunctionality" time="35.303" classname="com.epam.lab.GmailTest" />
+      
+</testsuite>
